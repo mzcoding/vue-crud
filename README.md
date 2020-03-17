@@ -1,4 +1,4 @@
-# example
+# Вебинар по Laravel + Vue (SPA приложение)
 
 ## Project setup
 ```
